@@ -1,0 +1,80 @@
+---
+title: "Welcome to the 2024 Report"
+---
+
+The report includes information from 31 programs that are members of the International Clearinghouse for Birth Defect Surveillance and Research. 
+
+These programs unselfishly share data, experience, and expertise to reduce the impact of congenital anomalies.
+
+Congenital anomalies affect hundreds of millions of families worldwide.  Sharing data is one way to shine the light on these conditions and generate action for better care and primary prevention. 
+
+Click on the links below to view each report.
+
+**Europe**
+
+-   [Czech Republic](report_progs/CZEP.html)
+-   [Finland](report_progs/FINP.html)
+-   [France REMERA](report_progs/FRAR.html)
+-   [France Brittany](report_progs/FRAB.html)
+
+-   [France Paris](report_progs/FRAP.html)
+
+-   [Germany Saxony Anhalt](report_progs/DEUS.html)
+
+-   [Italy Campania BDRCam](report_progs/ITAC.html)
+
+-   [Italy Emilia Romagna IMER](report_progs/ITAE.html)
+
+-   [Italy Lombardy CMRL](report_progs/ITAL.html)
+
+-   [Italy Tuscany RTDC](report_progs/ITAT.html)
+
+-   [Italy Veneto](report_progs/ITAV.html)
+
+-   [Malta MCAR](report_progs/MLTM.html)
+
+-   [Northern Netherlands](report_progs/NLDN.html)
+
+-   [Slovak Republic](report_progs/SVKP.html)
+
+-    [Sweden](report_progs/SWED.html)
+
+-   [Uk NCARDRS](report_progs/GBRN.html)
+
+-   [Ukraine OMNI Net](report_progs/UKRO.html)
+
+**Middle East & Asia**
+
+-   [Iran TRoCA](report_progs/IRNT.html)
+
+-   [Israel IBDSP](report_progs/ISRI.html)
+
+**Oceania**
+
+-   [New Zealand](report_progs/NZLP.html)
+
+**Central and South America**
+
+-   [Argentina RENAC](report_progs/ARGR.html)
+
+-   [Chile RENACH](report_progs/CHLR.html)
+
+-   [Colombia Bogotà](report_progs/COLB.html)
+
+-   [Colombia Cali](report_progs/COLC.html)
+
+-   [Costa Rica CREC](report_progs/CRIC.html)
+
+-   [Mexico RYVEMCE](report_progs/MEXR.html)
+
+-   [South America ECLAMC](report_progs/SAME.html)
+
+**North America**
+
+-   [Canada Alberta ACASS](report_progs/CANA.html)
+
+-   [Canada National CCASS](report_progs/CANC.html)
+
+-   [USA Iowa IRCID](report_progs/USAI.html)
+
+-   [USA Texas BDES](report_progs/USAT.html)
